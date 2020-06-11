@@ -1230,3 +1230,7 @@ ul {
 p {
   font-family: 'Sintony', sans-serif;
 }
+
+.service li>i {
+  margin-right: 10px;
+}
