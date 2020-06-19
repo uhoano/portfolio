@@ -21,10 +21,12 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
+  color: gray;
 }
 
 a:hover {
   text-decoration: none;
+  color: #007bff;
 }
 
 h1,
