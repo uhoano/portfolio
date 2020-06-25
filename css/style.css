@@ -168,12 +168,12 @@ h6 {
 }
 
 .site-section {
-  padding: 4.5em 0;
+  padding: 3em 0;
 }
 
 @media (min-width: 768px) {
   .site-section {
-    padding: 7em 0;
+    padding: 2em 0;
   }
 }
 
@@ -216,7 +216,7 @@ h6 {
 
 .site-footer {
   padding-top: 3rem;
-  background: #333333;
+  background: #003e80;
 }
 
 .site-footer p {
@@ -873,7 +873,7 @@ h6 {
   bottom: 0;
   right: 0;
   top: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.6);
 }
 
 .site-blocks-cover .img-wrap .slide img {
